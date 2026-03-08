@@ -1,13 +1,5 @@
 # 🌌 Welcome to Nanki's Digital Lab 🌌
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Software+Efficiency+Engineer;AI+Agent+Developer;Backend+Expert;Automation+Architect" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=45A1FF&ring=45A1FF&fire=45A1FF&currStreakLabel=45A1FF" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -26,7 +18,7 @@ I am a **Software Efficiency Engineer** dedicated to optimizing development work
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Core Backend** | Java (Spring Boot), Node.js, Python |
-| **Frontend/Scripts** | TypeScript, JavaScript, Shell Scripting |
+| **Frontend/Scripts** | TypeScript, JavaScript, Shell Scripting ,Vue|
 | **AI & Automation** | LLM Integration, AICR Tools, Chatbot Frameworks, MCP Protocol |
 
 
@@ -41,7 +33,7 @@ I am a **Software Efficiency Engineer** dedicated to optimizing development work
 
 ### 🤝 Connect & Collaborate
 
-- 🐦 **X (Twitter)**: [@YourHandle]
+- 🐦 **X (Twitter)**: [https://x.com/jiangna37206302]
 - 💬 **Ask Me About**: Java backend architecture, R&D efficiency, or building AI agents for enterprise workflows.
 
 ---
