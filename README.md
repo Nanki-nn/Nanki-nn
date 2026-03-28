@@ -18,7 +18,7 @@ I am a **Software Efficiency Engineer** dedicated to optimizing development work
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Core Backend** | Java (Spring Boot), Node.js, Python |
-| **Frontend/Scripts** | TypeScript, JavaScript, Shell Scripting ,Vue|
+| **Frontend/Scripts** | TypeScript, JavaScript, Shell Scripting ,React, Vue|
 | **AI & Automation** | LLM Integration, AICR Tools, Chatbot Frameworks, MCP Protocol |
 
 
