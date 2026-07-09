@@ -5,3 +5,5 @@
 * I focus on AI applications, backend systems, and developer tools.
 * I enjoy breaking complex systems into clear modules and building tools that save real time.
 * My current interests include AI agent workflows, backend architecture, graph technologies, and engineering productivity.
+
+  [Blog](https://x.com/jiangna37206302) · [csdn](https://github.com/) · 
