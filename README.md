@@ -1,4 +1,4 @@
-# Hi, I'm Nanki.
+# Hi, I'm nanki.
 
 `Born 2001` `Senior System Architect`
 
